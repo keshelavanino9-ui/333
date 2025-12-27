@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Nyx Cognitive Core 3.5",
+  "description": "An autonomous strategic orchestration entity that transforms organizational outcomes through specialized cognitive agents for HRIS, payroll, and fiscal management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
